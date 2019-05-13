@@ -1,0 +1,63 @@
+<html><head><title>表格应用</title>
+</head>
+<body>
+    <table frame=box border=1 align=center  cellpsdding=0 cellspacing=0  bordercolor=black>
+        <caption>课程表</caption>
+        <tr>
+            <td colspan=2  align="center">时间</td>
+            <td align="center">星期一</td>
+            <td align="center">星期二</td>
+            <td align="center">星期三</td>
+            <td align="center">星期四</td>
+            <td align="center">星期五</td>
+            <td align="center">星期六</td>
+            <td align="center">星期日</td>
+        </tr>
+        <tr>
+            <td rowspan=4 align=center>上午</td>
+            <td >第<br>1<br>节</td>
+            <td rowspan="2" align="center">web应用开发技术<br>周一第1，2节{第1-15周}<br>吕成功<br>第一公共教学楼c411</td>
+            <td rowspan="2" align="center">西方文化简史<br>周二第1，2节{第1-17周}<br>张金柱<br>第一公共教学楼c311</td>
+            <td rowspan="2" align="center">管理信息系统<br>周三第1，2节{第1-15周（单周)}<br>刘烨<br>第一公共教学楼c105</td>
+            <td rowspan="2" align="center">数据库原理及应用/运营管理<br>周四第1，2节{第2-14周（双周）}/周四第1，2节{第1-15周（单周）}<br>吴君/刘亮，邓华<br>第一公共教学楼b405</td>
+       <td></td><td></td><td></td> </tr>
+       <tr>
+           <td>第<br>2<br>节</td>
+           <td></td><td></td><td></td></tr>
+        <tr>
+            <td >第<br>3<br>节</td>
+            <td rowspan="2" align="center">毛概<br>周一第3，4节{第1-16周}<br>顾洪英<br>第一公共教学楼a120</td>
+            <td rowspan="2" align="center">管理科学基础<br>周二第3，4节{第3-17周}<br>赵方方<br>第一公共教学楼c411</td>
+            <td rowspan="2" align="center">毛概<br>周三第3，4节{第1-16周}<br>顾洪英<br>第一公共教学楼a120</td>
+            <td rowspan="2" align="center">管理科学基础<br>周四第3，4节{第3-17周}<br>赵方方<br>第一公共教学楼c411</td>
+            <td rowspan="2" align="center">运营管理<br>周五第3，4节{第1-15周}<br>刘亮，邓华<br>第一公共教学楼b405</td>
+            <td></td><td></td> </tr>
+        <tr>
+                <td>第<br>4<br>节</td>
+                <td></td><td></td></tr>
+        <tr>
+                <td rowspan=4 align=center>下午</td>
+                <td >第<br>5<br>节</td>
+                <td rowspan="2" align="center">管理信息系统<br>周一第5，6节{第1-15周}<br>刘烨<br>第一公共教学楼c105</td>
+                <td rowspan="2" align="center">形式与政策2<br>周二第5，6节{第5-7周}<br>邵夏，李坤<br>第一公共教学楼c123</td>
+                <td rowspan="2" align="center">会计学<br>周三第5，6节{第1-17周（单周）}<br>刘晓晖，姜红<br>第一公共教学楼b101</td>
+                <td rowspan="2" align="center">体育<br>周四第5，6节{第1-17周}<br>薛洋<br>体育馆</td>
+                <td rowspan="2" align="center">毛概<br>周五第5，6节{第1-16周}<br>顾洪英<br>第一公共教学楼a120</td>
+                <td></td><td></td></tr>
+        <tr>
+            <td>第<br>6<br>节</td>
+            <td></td><td></td></tr>
+        <tr>
+                <td>第<br>7<br>节</td>
+                <td rowspan="2" align="center">电子商务<br>周一第7，8节{第3-17周}<br>张亮<br>第一公共教学楼b303</td>
+                <td rowspan="2" align="center">数据库原理及应用<br>周二第7，8节{第1-15周}<br>吴君<br>第一公共教学楼c109</td>
+                <td></td>
+                <td rowspan="2" align="center">会计学<br>周四第7，8节{第1-17周}<br>刘晓晖，姜红<br>第一公共教学楼b101</td>  
+                <td></td><td></td><td></td></tr>
+        <tr>
+                <td>第<br>8<br>节</td>
+                <td></td><td></td><td></td></tr>
+
+       
+</body>
+</html>
